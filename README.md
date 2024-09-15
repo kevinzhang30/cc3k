@@ -1,5 +1,5 @@
 # ChamberCrawler3000 (CC3K)
-ChamberCrawler3000 (CC3K) is a game inspired by the classic video game *Rogue* https://en.wikipedia.org/wiki/Rogue_(video_game). The player navigates through a series of chambers across five dungeon floors, defeating enemies, collecting treasure, and using potions, all displayed in an ASCII-rendered game world. The goal is to reach the fifth floor while surviving enemy attacks and enhancing your character's abilities through various items and potions.
+**ChamberCrawler3000 (CC3K)** is a game inspired by the classic video game *Rogue* https://en.wikipedia.org/wiki/Rogue_(video_game). The player navigates through a series of chambers across five dungeon floors, defeating enemies, collecting treasure, and using potions, all displayed in an ASCII-rendered game world. The goal is to reach the fifth floor while surviving enemy attacks and enhancing your character's abilities through various items and potions.
 
 ## Features
 - **Playable Races:** Choose between several character races including Shade, Drow, Vampire, Troll, and Goblin, each with unique stats and abilities.
